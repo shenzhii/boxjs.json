@@ -1,8 +1,8 @@
 {
     "id": "zhii.sub",
     "name": "zhii脚本订阅",
-    "author": "@Sliverkiss",
-    "icon": "https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/sakura.png",
+    "author": "@zhii",
+    "icon": "",
     "repo": "",
     "apps": [
       {
