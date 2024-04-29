@@ -61,13 +61,13 @@
             "val": "",
             "type": "textarea",
             "autoGrow": true,
-            "desc": "iqooc_data cookie和sign"},
-            {
+            "desc": "iqooc_data cookie和sign"
+          },{
             "id": "iqooc_userId",
             "name": "用户ID",
-                "autoGrow": true,
             "val": "",
             "type": "textarea",
+            "autoGrow": true,
            }
         ]
       },{
