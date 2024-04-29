@@ -44,7 +44,25 @@
             "autoGrow": true,
             "desc": "会员Cookie数据"
           }
-        ]
+        ] 
+      },{
+        "id": "iqooc_data",
+        "name": "IQOO社区小程序",
+        "repo": "",
+        "icons": [
+         "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/iqooc.png",
+          "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/iqooc.png"
+        ],
+        "keys": ["iqooc_data"],
+        "settings": [
+          {
+            "id": "iqooc_data",
+            "name": "iqooc_data数据",
+            "val": "",
+            "type": "textarea",
+            "autoGrow": true,
+            "desc": "iqooc_data数据"
+          }
       },{
         "id": "sliverkiss_yht",
         "name": "益禾堂",
