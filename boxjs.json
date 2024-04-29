@@ -5,26 +5,6 @@
     "icon": "",
     "repo": "",
     "apps": [
-      {
-        "id": "sliverkiss_bwcj",
-        "name": "霸王茶姬",
-        "author": "@Sliverkiss",
-        "repo": "",
-        "icons": [
-          "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png",
-          "https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png"
-        ],
-        "keys": ["bwcj_data"],
-        "settings": [
-          {
-            "id": "bwcj_data",
-            "name": "会员Cookie数据",
-            "val": "",
-            "type": "textarea",
-            "autoGrow": true,
-            "desc": "会员Cookie数据"
-          }
-        ]
       },{
         "id": "sliverkiss_hsay",
         "name": "沪上阿姨",
