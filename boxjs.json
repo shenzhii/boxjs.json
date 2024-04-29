@@ -61,8 +61,14 @@
             "val": "",
             "type": "textarea",
             "autoGrow": true,
-            "desc": "iqooc_data数据"
-          }
+            "desc": "iqooc_data cookie和sign"},
+            {
+            "id": "iqooc_userId",
+            "name": "用户ID",
+                "autoGrow": true,
+            "val": "",
+            "type": "textarea",
+           }
         ]
       },{
         "id": "sliverkiss_yht",
