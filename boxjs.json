@@ -53,7 +53,7 @@
          "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/iqooc.png",
           "https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/iqooc.png"
         ],
-        "keys": ["iqooc_data"],
+        "keys": ["iqooc_data","iqooc_userId"],
         "settings": [
           {
             "id": "iqooc_data",
