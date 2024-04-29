@@ -68,6 +68,7 @@
             "val": "",
             "type": "textarea",
             "autoGrow": true,
+            "desc": "用户id"
            }
         ]
       },{
